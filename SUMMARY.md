@@ -2,9 +2,9 @@
 
 * [কিউট পরিচিতি](aboutqt.md)
 * [কিউট ডাউনলোড, ইন্সটল ও কনফিগারেশন](qt-install/qt-install.md)
-   * [লিনাক্সে ইন্সটল করা] (#)
+   * [লিনাক্সে ইন্সটল করা](qt-install/qt-install-linux.md)
+   * [ম্যাকে ইন্সটল করা](qt-install/qt-install-mac.md)   
    * [উইন্ডোজে ইন্সটল করা](qt-install/qt-install-win.md)
-   * [ম্যাকে ইন্সটল করা] (#)   
    * [কিউট কনফিগারেশন](qt-install/qt-configure.md)   
 * [কিউট ক্রিয়েটর বেসিক] (#)
 * [কিউট প্রজেক্ট তৈরী করা] (#)
