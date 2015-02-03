@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1800"
+   height="2360"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="qt.book.svg"
+   inkscape:export-filename="/home/minhaz/cover.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.30141808"
+     inkscape:cx="1283.8866"
+     inkscape:cy="778.89853"
+     inkscape:document-units="px"
+     inkscape:current-layer="g7359"
+     showgrid="false"
+     inkscape:window-width="1873"
+     inkscape:window-height="1012"
+     inkscape:window-x="47"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1307.6378)">
+    <rect
+       style="fill:#80c341;fill-opacity:1;stroke:none"
+       id="rect3801"
+       width="1800"
+       height="1180"
+       x="0"
+       y="-1307.6378" />
+    <rect
+       y="-295.63779"
+       x="0"
+       height="1348"
+       width="1800"
+       id="rect3819"
+       style="fill:#006325;fill-opacity:1;stroke:none" />
+    <g
+       id="g7359"
+       transform="matrix(0.51887819,0,0,0.51887819,-50.00315,813.56558)">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3134"
+         d="m 96.367801,-150.41615 0,305.3791 2129.214599,-6.1e-4 241.5312,0 0.4545,0 152.4623,-152.4623652 -152.9168,-152.9167348 -241.5312,0 z"
+         style="color:#000000;fill:#80c341;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text7355"
+         y="66.995033"
+         x="200.22731"
+         style="font-size:224.92419434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006325;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="66.995033"
+           x="200.22731"
+           id="tspan7357"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#006325;fill-opacity:1;font-family:Lato;-inkscape-font-specification:Lato Bold">qt.howtocode.com.bd</tspan></text>
+    </g>
+    <g
+       id="g3865"
+       transform="translate(0,-106.81246)">
+      <g
+         style="fill:#006325;fill-opacity:1"
+         id="g3857"
+         transform="matrix(9.389203,0,0,9.389203,-1888.6816,-6474.078)">
+        <g
+           style="fill:#006325;fill-opacity:1"
+           id="g3859"
+           transform="translate(129.92429,2.141609)">
+          <g
+             style="fill:#006325;fill-opacity:1"
+             id="g3861"
+             transform="matrix(0.50772195,0,0,0.50772195,77.70075,316.77756)">
+            <path
+               style="fill:#006325;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path3863"
+               d="m 241.61367,521.81023 c -10.41902,0 -18.67154,3.98898 -24.60736,12.26051 -7.03166,9.80495 -10.62002,25.33263 -10.62002,46.2791 0,19.43032 2.55229,34.22236 7.6844,44.37959 5.05617,9.9949 12.39004,15.96283 21.75809,17.95905 2.03838,9.88439 5.18602,16.56723 9.49758,20.03125 3.25821,2.62479 7.59806,3.97172 12.95124,3.97172 1.61772,0 3.37804,-0.11052 5.18049,-0.34537 l 6.13026,-0.86341 0,-13.38295 c -0.94318,0.1072 -1.84943,0.0862 -2.67659,0.0862 -2.85997,0 -5.00262,-0.56986 -6.38928,-1.81317 -1.78759,-1.61977 -3.17047,-4.67627 -4.05806,-9.23856 8.80961,-3.01505 15.29457,-9.55974 19.51321,-19.5132 4.14577,-9.81531 6.21662,-23.07393 6.21659,-39.97616 0,-18.45293 -2.78329,-32.50589 -8.46148,-42.30739 -5.78212,-10.02254 -14.68221,-15.85577 -26.93858,-17.26832 -1.77689,-0.21054 -3.51306,-0.25889 -5.18049,-0.25889 z m 56.20838,7.2527 -4.92147,20.80832 -7.77074,-0.51805 0,13.901 6.38928,0.34537 0,52.66838 c 0,6.89351 1.34764,11.89442 4.14439,15.02344 2.39997,2.70076 5.93892,4.05805 10.53368,4.05805 0.68695,0 1.42327,-0.0312 2.15854,-0.0862 5.07412,-0.43516 10.18831,-1.8339 15.45515,-4.1444 l 0,-12.00148 c -3.09896,1.41255 -5.93199,2.2656 -8.54782,2.41757 -0.16992,0.0111 -0.35333,0 -0.51805,0 -1.70785,0 -2.9746,-0.54568 -3.79903,-1.6405 -0.91453,-1.19496 -1.38147,-3.80939 -1.38147,-7.94342 l 0,-47.57423 13.29661,0.60439 0,-12.95124 -13.29661,-0.94976 0,-20.72198 -11.74246,-1.29513 z m -52.15033,8.54781 c 0.35228,0 0.75395,0.0553 1.12244,0.0862 4.80546,0.42134 8.39691,3.75068 10.7927,9.92928 2.3948,6.14753 3.54004,17.29595 3.54001,33.58689 0,18.15246 -1.21431,30.32317 -3.62635,36.5225 -2.42826,6.26149 -5.95481,9.54247 -10.70636,9.84294 -0.2144,0.0138 -0.48039,0.0862 -0.69073,0.0862 -4.74464,0 -8.29258,-3.43294 -10.70636,-10.27465 -2.55914,-7.18362 -3.88537,-19.36469 -3.88537,-36.60884 0,-17.84163 1.30206,-29.62553 3.88537,-35.31372 2.3851,-5.21848 5.8215,-7.85708 10.27465,-7.85708 z"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(9.389203,0,0,9.389203,-1872.6816,-6490.078)"
+         id="layer1-7">
+        <g
+           transform="translate(129.92429,2.141609)"
+           id="g3835">
+          <g
+             transform="matrix(0.50772195,0,0,0.50772195,77.70075,316.77756)"
+             id="g3841">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 241.61367,521.81023 c -10.41902,0 -18.67154,3.98898 -24.60736,12.26051 -7.03166,9.80495 -10.62002,25.33263 -10.62002,46.2791 0,19.43032 2.55229,34.22236 7.6844,44.37959 5.05617,9.9949 12.39004,15.96283 21.75809,17.95905 2.03838,9.88439 5.18602,16.56723 9.49758,20.03125 3.25821,2.62479 7.59806,3.97172 12.95124,3.97172 1.61772,0 3.37804,-0.11052 5.18049,-0.34537 l 6.13026,-0.86341 0,-13.38295 c -0.94318,0.1072 -1.84943,0.0862 -2.67659,0.0862 -2.85997,0 -5.00262,-0.56986 -6.38928,-1.81317 -1.78759,-1.61977 -3.17047,-4.67627 -4.05806,-9.23856 8.80961,-3.01505 15.29457,-9.55974 19.51321,-19.5132 4.14577,-9.81531 6.21662,-23.07393 6.21659,-39.97616 0,-18.45293 -2.78329,-32.50589 -8.46148,-42.30739 -5.78212,-10.02254 -14.68221,-15.85577 -26.93858,-17.26832 -1.77689,-0.21054 -3.51306,-0.25889 -5.18049,-0.25889 z m 56.20838,7.2527 -4.92147,20.80832 -7.77074,-0.51805 0,13.901 6.38928,0.34537 0,52.66838 c 0,6.89351 1.34764,11.89442 4.14439,15.02344 2.39997,2.70076 5.93892,4.05805 10.53368,4.05805 0.68695,0 1.42327,-0.0312 2.15854,-0.0862 5.07412,-0.43516 10.18831,-1.8339 15.45515,-4.1444 l 0,-12.00148 c -3.09896,1.41255 -5.93199,2.2656 -8.54782,2.41757 -0.16992,0.0111 -0.35333,0 -0.51805,0 -1.70785,0 -2.9746,-0.54568 -3.79903,-1.6405 -0.91453,-1.19496 -1.38147,-3.80939 -1.38147,-7.94342 l 0,-47.57423 13.29661,0.60439 0,-12.95124 -13.29661,-0.94976 0,-20.72198 -11.74246,-1.29513 z m -52.15033,8.54781 c 0.35228,0 0.75395,0.0553 1.12244,0.0862 4.80546,0.42134 8.39691,3.75068 10.7927,9.92928 2.3948,6.14753 3.54004,17.29595 3.54001,33.58689 0,18.15246 -1.21431,30.32317 -3.62635,36.5225 -2.42826,6.26149 -5.95481,9.54247 -10.70636,9.84294 -0.2144,0.0138 -0.48039,0.0862 -0.69073,0.0862 -4.74464,0 -8.29258,-3.43294 -10.70636,-10.27465 -2.55914,-7.18362 -3.88537,-19.36469 -3.88537,-36.60884 0,-17.84163 1.30206,-29.62553 3.88537,-35.31372 2.3851,-5.21848 5.8215,-7.85708 10.27465,-7.85708 z"
+               id="path2468"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3815"
+       y="-29.98241"
+       x="551.63141"
+       style="font-size:143.37963867px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="-29.98241"
+         x="551.63141"
+         id="tspan3817"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:SolaimanLipi;-inkscape-font-specification:SolaimanLipi Bold">বাংলায়</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:325.64715576px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="979.20123"
+       y="82.88842"
+       id="text3821"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:SolaimanLipi;-inkscape-font-specification:SolaimanLipi Bold"
+         sodipodi:role="line"
+         id="tspan3823"
+         x="979.20123"
+         y="82.88842">কিউট</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3825"
+       y="424.02127"
+       x="412.97583"
+       style="font-size:325.64715576px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="424.02127"
+         x="412.97583"
+         id="tspan3827"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:SolaimanLipi;-inkscape-font-specification:SolaimanLipi Bold">ফ্রেমওয়ার্ক</tspan></text>
+  </g>
+</svg>
